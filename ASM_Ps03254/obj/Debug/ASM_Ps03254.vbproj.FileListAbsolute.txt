@@ -1,0 +1,17 @@
+H:\Kết quả và test\Điện toán đám mây\ASM-ps03254\ASM_Ps03254\ASM_Ps03254\bin\Debug\ASM_Ps03254.exe.config
+H:\Kết quả và test\Điện toán đám mây\ASM-ps03254\ASM_Ps03254\ASM_Ps03254\bin\Debug\ASM_Ps03254.exe
+H:\Kết quả và test\Điện toán đám mây\ASM-ps03254\ASM_Ps03254\ASM_Ps03254\bin\Debug\ASM_Ps03254.pdb
+H:\Kết quả và test\Điện toán đám mây\ASM-ps03254\ASM_Ps03254\ASM_Ps03254\bin\Debug\ASM_Ps03254.xml
+H:\Kết quả và test\Điện toán đám mây\ASM-ps03254\ASM_Ps03254\ASM_Ps03254\obj\Debug\ASM_Ps03254.GiaodienloginchoAdmin.resources
+H:\Kết quả và test\Điện toán đám mây\ASM-ps03254\ASM_Ps03254\ASM_Ps03254\obj\Debug\ASM_Ps03254.GiaodienloginStaff.resources
+H:\Kết quả và test\Điện toán đám mây\ASM-ps03254\ASM_Ps03254\ASM_Ps03254\obj\Debug\ASM_Ps03254.Mã_bảo_vệ_Admin.resources
+H:\Kết quả và test\Điện toán đám mây\ASM-ps03254\ASM_Ps03254\ASM_Ps03254\obj\Debug\ASM_Ps03254.Quản_lý_bán_hàng_cho_Staff.resources
+H:\Kết quả và test\Điện toán đám mây\ASM-ps03254\ASM_Ps03254\ASM_Ps03254\obj\Debug\ASM_Ps03254.Trang_chủ.resources
+H:\Kết quả và test\Điện toán đám mây\ASM-ps03254\ASM_Ps03254\ASM_Ps03254\obj\Debug\ASM_Ps03254.Resources.resources
+H:\Kết quả và test\Điện toán đám mây\ASM-ps03254\ASM_Ps03254\ASM_Ps03254\obj\Debug\ASM_Ps03254.Đăng_kí_tài_khoản_Staff.resources
+H:\Kết quả và test\Điện toán đám mây\ASM-ps03254\ASM_Ps03254\ASM_Ps03254\obj\Debug\ASM_Ps03254.vbproj.GenerateResource.Cache
+H:\Kết quả và test\Điện toán đám mây\ASM-ps03254\ASM_Ps03254\ASM_Ps03254\obj\Debug\ASM_Ps03254.exe
+H:\Kết quả và test\Điện toán đám mây\ASM-ps03254\ASM_Ps03254\ASM_Ps03254\obj\Debug\ASM_Ps03254.xml
+H:\Kết quả và test\Điện toán đám mây\ASM-ps03254\ASM_Ps03254\ASM_Ps03254\obj\Debug\ASM_Ps03254.pdb
+H:\Kết quả và test\Điện toán đám mây\ASM-ps03254\ASM_Ps03254\ASM_Ps03254\obj\Debug\ASM_Ps03254.Quan_ly_khach_hang_admin.resources
+H:\Kết quả và test\Điện toán đám mây\ASM-ps03254\ASM_Ps03254\ASM_Ps03254\obj\Debug\ASM_Ps03254.Quan_ly_nhap_hang.resources
